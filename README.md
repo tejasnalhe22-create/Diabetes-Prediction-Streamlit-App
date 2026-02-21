@@ -4,6 +4,8 @@ This project is a Machine Learning-based web application that predicts whether a
 
 The model is built using Logistic Regression and deployed using Streamlit for an interactive user interface.
 
+Diabetes-Prediction-App Link: https://diabetes-prediction-app-app-rbcqohee5wn2g5xquybkkv.streamlit.app/
+
 🚀 Features
 
 Data preprocessing and feature scaling
